@@ -34,7 +34,10 @@ In order to integrate the google api services like maps, directions etc. you nee
 
 * Open the file Locations.xcworkspace in Locations folder using Xcode.
 
-* Run the project in Xcode.
+* Run the project in Xcode.̨
+
+* Add the **API-KEY** you got from google console to **kGMapsAPIKey** in constants.swift file.
+
 
 ## Demo
 
