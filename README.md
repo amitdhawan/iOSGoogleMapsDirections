@@ -36,4 +36,8 @@ In order to integrate the google api services like maps, directions etc. you nee
 
 * Run the project in Xcode.
 
+## Demo
+
+![Demo](https://github.com/amitdhawan/-iOS-GoogleMapsDirections/blob/master/Locations/Demo.gif)
+
 Any suggestions are welcome, if you like the project don't forget to add a star on this repo :-)
